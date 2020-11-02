@@ -1,2 +1,5 @@
 cpu
 mouse
+
+
+desktop
